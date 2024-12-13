@@ -1,0 +1,29 @@
+.bystander-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .bystander-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .bystander-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .bystander-table th,
+  .bystander-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .bystander-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .bystander-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
